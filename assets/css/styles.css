@@ -5,6 +5,7 @@ header {
 #button {
     border-radius: 23em;
     height: 23em;
+    justify-content: end;
 }
 
 h1 {
@@ -26,7 +27,7 @@ aside {
     background-size: cover;
     background-position: center;
     width: 50%;
-    height: 700px;
+    height: 900px;
     align-content: center;
     text-align: center;
     border-right: 10px  solid black;
