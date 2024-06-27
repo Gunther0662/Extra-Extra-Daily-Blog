@@ -1,0 +1,33 @@
+header {
+    border-bottom: 10px solid black;
+}
+
+#button {
+    border-radius: 23em;
+    height: 23em;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+body {
+    background-color: white;
+    color:black;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+aside {
+    background-image: url(../images/old\ news\ paper\ template.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 700px;
+    align-content: center;
+    text-align: center;
+    border-right: 10px  solid black;
+}
